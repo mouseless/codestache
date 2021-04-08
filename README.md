@@ -10,8 +10,8 @@ There are a couple of motivations behind creating this specification;
 - Code generation uses meta-data, while a Mustache template uses data, and this
   makes a huge difference.
 
-To given example how a Codestache template is readable, below is a comparison 
-between Mustache and Codestache.
+To give an example of how a Codestache template is readable and easy to
+maintain, below is a comparison between Mustache and Codestache.
 
 ## Mustache is nice
 
