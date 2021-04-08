@@ -114,9 +114,9 @@ function sayGoodbye(
 
 ```javascript
 /* #function */
-function $function$(/* # */$parameter$) {
+function $function$(/* # */$argument$) {
     console.log("$function$ called"
-        + " ($parameter$: " + $parameter$ + ")" // #parameter
+        + " ($argument$: " + $argument$ + ")" // #argument
     );
 }
 /* / */
